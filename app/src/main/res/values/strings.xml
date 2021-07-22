@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller Codelab</string>
+    <string name="buttonText">Jogar</string>
+    <string name="dice">dice</string>
+</resources>
